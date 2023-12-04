@@ -1,3 +1,3 @@
 public interface CanGetDiskon {
-    public Integer hitungTotalBayar(Integer jumlahBelanja);
+    public Integer hitungTotalBayar(Integer jumlahBel);
 }
